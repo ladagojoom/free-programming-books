@@ -81,6 +81,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Microsoft Technologies 3, DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) - Cam Soper, Scott Addie, Colin Dembovsky (PDF)
 * [O'Reilly's Open Books Project](https://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
+* [Programming, Math, Science](https://github.com/bobeff/programming-math-science)
 * [Red Gate Books](https://www.red-gate.com/hub/books/)
 * [Rip Tutorials](https://riptutorial.com/ebook)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
